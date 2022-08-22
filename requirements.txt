@@ -1,2 +1,2 @@
-git+https://github.com/6days9weeks/Novus.git@siesta#egg=Novus[vbu, voice, speed]
+Novus[vbu, voice, speed]
 orjson
